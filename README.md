@@ -1,6 +1,7 @@
 # custom_progress_bar
 
 A new Flutter project.
+![Simulator Screen Shot - iPhone 14 - 2023-06-10 at 14 07 22](https://github.com/RoseD-web/custom_progress_bar/assets/67821352/6dead387-6630-4108-84f1-635631dbcff6)
 
 ## Getting Started
 
